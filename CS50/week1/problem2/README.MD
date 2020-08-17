@@ -1,1 +1,1 @@
-Problema 2
+Problema 2 - validar cartão de crédito, algoritmo de Luhn
