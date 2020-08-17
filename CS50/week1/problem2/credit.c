@@ -7,7 +7,7 @@ int sum_individually(int mult);
 
 int main(void)
 {
-    // visa
+    // ex: amex
     long n1 = 369421438430814L;
 
     int n_digits = get_num_len(n1);
